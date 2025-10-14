@@ -1,0 +1,67 @@
+D:\Projects\Diary3\Diary3\bin\Debug\Diary3.exe.config
+D:\Projects\Diary3\Diary3\bin\Debug\Diary3.exe
+D:\Projects\Diary3\Diary3\bin\Debug\Diary3.pdb
+D:\Projects\Diary3\Diary3\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Diary3\Diary3\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\Diary3\Diary3\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.csproj.AssemblyReference.cache
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.LoginForm.resources
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.Properties.Resources.resources
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.csproj.GenerateResource.cache
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.csproj.CoreCompileInputs.cache
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.csproj.CopyComplete
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.exe
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.pdb
+D:\Projects\Diary3\Diary3\obj\Debug\Diary3.MainForm.resources
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\Diary3.exe.config
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\Diary3.exe
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\Diary3.pdb
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.csproj.AssemblyReference.cache
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.LoginForm.resources
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.MainForm.resources
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.Properties.Resources.resources
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.csproj.GenerateResource.cache
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.csproj.CoreCompileInputs.cache
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.csproj.CopyComplete
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.exe
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.pdb
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\EntityFramework.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Data.SqlServerCe.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\EntityFramework.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.CalculateHoursForm.resources
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.Migrations.InitialCreate.resources
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ClosedXML.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ClosedXML.Parser.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ExcelNumberFormat.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\RBush.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\SixLabors.Fonts.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Buffers.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Memory.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ClosedXML.pdb
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ClosedXML.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ClosedXML.Parser.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\ExcelNumberFormat.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\RBush.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\SixLabors.Fonts.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Buffers.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Memory.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Diary3 — копия\Diary3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Diary3 — копия\Diary3\obj\Debug\Diary3.ReportForm.resources
